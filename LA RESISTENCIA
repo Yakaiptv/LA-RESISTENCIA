@@ -1,0 +1,9 @@
+##EXTM3U
+
+http://line.danoli101.com:8080/Pedro1/123456/4837
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="MOVISTAR LA RESISTENCIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="MOVISTAR",MOVISTAR LA RESISTENCIA HD 1080P
+http://line.danoli101.com:8080/Pedro1/123456/4838
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="MOVISTAR LA RESISTENCIA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="MOVISTAR",MOVISTAR LA RESISTENCIA HD 720P
+http://line.danoli101.com:8080/Pedro1/123456/4839
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="MOVISTAR LA RESISTENCIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="MOVISTAR",MOVISTAR LA RESISTENCIA SD
+http://line.danoli101.com:8080/Pedro1/123456/4840
